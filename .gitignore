@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore training data, it could be obtained following the link in the notebook
 processed_celeba_small
+
+# Ignore trained model
+train_samples.pkl
